@@ -1,4 +1,2 @@
-body{
-    background: #000
-    
-}
+const s = "bimdi princisi"
+console.log(s)
